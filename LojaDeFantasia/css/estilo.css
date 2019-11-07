@@ -1,0 +1,35 @@
+.body{
+    font-family: 'Creepster', cursive;
+}
+section{
+    background-color: rgb(201, 198, 204);
+}
+footer{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.icone{
+    text-align: right;
+}
+.radios{
+    text-align: left;
+}
+.small{
+    text-align: center;
+}
+.divisao{
+    text-align: center;
+}
+.imagens{
+    width: 100%;
+    height: auto;
+}
+.imagem2{
+    width: 100px;
+    height: auto;
+}
+.tabela{
+    text-align: center;
+}
