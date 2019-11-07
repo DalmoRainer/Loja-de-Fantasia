@@ -2,4 +2,4 @@
 Um site feito por mim sobre uma loja que vende fantasias de Halloween;
 Páginas: index, conteúdo, contato e registro;
 Materiais: HTML, CSS, JS e Bootstrap;
-Hospedaado como: cidadedoshorrores.surge.sh.
+Hospedado como: cidadedoshorrores.surge.sh.
